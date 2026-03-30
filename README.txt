@@ -1,0 +1,1 @@
+Este projeto automatiza a evolução da sua conta no League of Legends, permitindo que ela jogue de forma autônoma. O sistema seleciona automaticamente o campeão, move o personagem até a lane e realiza ataques contra bots inimigos, simulando ações básicas durante a partida.
