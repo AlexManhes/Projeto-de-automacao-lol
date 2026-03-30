@@ -72,7 +72,7 @@ Configurações gerais (teclas, delays, tempos, etc).
 
 🛠️ Como executar
 1 - Clone o repositório:
-• git clone https://github.com/seu-usuario/seu-repo.git
+• git clone https://github.com/AlexManhes/Projeto-de-automacao-lol
 
 2 - Acesse a pasta:
 • cd Projeto-de-automação-LOL
